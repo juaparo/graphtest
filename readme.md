@@ -7,7 +7,7 @@ Prueba de conocimientos de backend MongoDB, ExpressJS, GraphQL, Apollo Server
 Antes de ejecutar el proyecto tener en cuenta lo siguiente: 
 
 Tener instalado:
-npm, mongodb
+npm, mongodb, nodejs
 
 Luego ejecutar el siguiente comando para llenar la base de datos con registros de prueba
 
@@ -21,4 +21,4 @@ A continuación ejecutar el siguiente comando para iniciar el servidor
 npm run start
 ```
 
-Al iniciar el proyecto consultar http://locahost:3000 para ingresar al cliente de Apollo Server y ejecutar las operaciones necesarias
+Al iniciar el proyecto consultar http://localhost:3000 para ingresar al cliente de Apollo Server y ejecutar las operaciones necesarias
